@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Daniel Fernando Parulian Simangunsong, but you can call me only with Daniel.
+I am an Information Student at Faculty of Computer Science, University of Indonesia.
+Here is my [linkedin](https://www.linkedin.com/in/danielfernandops/), if you want to get to know me more :D
 <!--
 **danielfsimangunsong/danielfsimangunsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
