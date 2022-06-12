@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel 👋
 
-I am an Information Student at Faculty of Computer Science, University of Indonesia.\
+Student of Information Systems who being enthusiastic learn new things, eager to improve skills, and intensifying work experience. Currently, I am developing skills in Data Science. I practiced in data preprocessing and building Machine Learning models. I also have good knowledge in IT Project Management and am well-versed in doing many group projects with different roles.\
 Here is my [linkedin](https://www.linkedin.com/in/danielfernandops/), if you want to get to know me more 😁
 
 **Github Statistics:**
